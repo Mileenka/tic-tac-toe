@@ -5,7 +5,7 @@ const winningMessage = (msg, winner) => {
 
     const winnerImg = document.createElement('img');
     winnerImg.classList.add('winnerImg');
-    winnerImg.src = ('../../assets/winner.png');
+    winnerImg.src = '../../assets/winner.png';
     winnerImg.alt = 'winner';
 
     const winnerMessage = document.createElement('p');
