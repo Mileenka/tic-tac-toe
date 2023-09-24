@@ -115,8 +115,6 @@ body {
     cursor: pointer;
 }
 
-/* -------------  ------------------- */
-
 .squareContainer {
     display: flex;
     flex-wrap: wrap;
